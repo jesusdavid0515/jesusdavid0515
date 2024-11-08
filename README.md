@@ -1,5 +1,5 @@
 # 💫 About Me:
-Como desarrollador frontend junior, mi tarea principal es crear la interfaz de usuario de un sitio web o aplicar web utilizando tecnologías como HTML, CSS y JavaScript. Soy responsable de traducir los diseños proporcionados por el equipo de diseño en código funcional y accesible.<br><br>También debo ser capaz de solucionar problemas y trabajar de manera independiente para resolver problemas en el código y encontrar soluciones creativas a los desafíos que se presentan.
+Como desarrollador, mi tarea principal es crear la interfaz de usuario de un sitio web o aplicar web utilizando tecnologías como HTML, CSS y JavaScript. Soy responsable de traducir los diseños proporcionados por el equipo de diseño en código funcional y accesible.<br><br>También debo ser capaz de solucionar problemas y trabajar de manera independiente para resolver problemas en el código y encontrar soluciones creativas a los desafíos que se presentan.
 
 
 ## 🌐 Socials:
